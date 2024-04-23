@@ -10,6 +10,7 @@ function App() {
   return (
     <div className="d-flex justify-content-center align-items-center bg-secondary vh-100">
     <div className="bg-white p-3 rounded w-25">
+        <h1>Sathvik git demo app</h1>
         <h2>Register</h2>
         <button onClick={decrementCount}>button</button>
         <span>{count}</span>
