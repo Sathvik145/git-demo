@@ -11,6 +11,7 @@ function App() {
     <div className="d-flex justify-content-center align-items-center bg-secondary vh-100">
     <div className="bg-white p-3 rounded w-25">
         <h1>Sathvik git demo app</h1>
+        <h3>made this website for the demo of how to use git and push code from the vs code</h3>
         <h2>Register</h2>
         <button onClick={decrementCount}>button</button>
         <span>{count}</span>
